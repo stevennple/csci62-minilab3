@@ -14,4 +14,5 @@ int main () {
 
   // Add and commit for #8.6a
   cout << a.getX() << endl; // change for #8
+  cout << a.getX() << endl << endl; // change for #8
 }
