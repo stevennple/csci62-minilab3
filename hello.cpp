@@ -11,5 +11,5 @@ int main () {
 
   // Another useless comment for #7
   MyClass a(5);
-  cout << a.getX() << endl; // change for #8
+  cout << a.getX() << endl << endl; // change for #8
 }
